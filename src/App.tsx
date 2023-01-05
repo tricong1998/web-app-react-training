@@ -1,3 +1,4 @@
+import './styles/output.css';
 import logo from './logo.svg';
 import './App.css';
 
